@@ -21,4 +21,4 @@ This recitation covers Logistic Regression, Neural Networks, Pytorch, and Huggin
 This recitation covers decision trees, random forests, Sklearn, and Boosting methods including Adaboost. I show to implement algorithms from scratch and in Sklearn.
 
 ## Lecture 6: Unsupervised Learning, Reinforcment Learning, SQL, and Data Sources
-This recitation covers SQL, reinforcement learning, K-means, K-mediods, and where to find data:
+This recitation covers SQL, reinforcement learning, K-means, K-mediods, and where to find data.
