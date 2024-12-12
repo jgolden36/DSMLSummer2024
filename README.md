@@ -1,4 +1,4 @@
-These are recitations for my Introduction to Machine Learning for Economists alongside code and slides. My hope is to make it easier for economists to delve into machine learning topics.
+These are recitations for my 'Introduction to Machine Learning for Economists' recitations alongside code and slides. My hope is to make it easier for economists to delve into machine learning topics.
 
 ## Lecture 1: Introduction to Machine Learning for Economists: Intro to Course, Intro to Python, Intro to Pandas
 
